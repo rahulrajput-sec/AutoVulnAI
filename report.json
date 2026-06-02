@@ -1,0 +1,20 @@
+{
+    "target": "https://demo.testfire.net",
+    "risk_level": "MEDIUM",
+    "total_findings": 13,
+    "findings": [
+        "[INFO] SSL Certificate Found",
+        "[MEDIUM] Missing Header: Content-Security-Policy",
+        "[MEDIUM] Missing Header: Strict-Transport-Security",
+        "[MEDIUM] Missing Header: X-Frame-Options",
+        "[MEDIUM] Missing Header: X-Content-Type-Options",
+        "[INFO] Server: Apache-Coyote/1.1",
+        "[INFO] X-Powered-By: Unknown",
+        "[INFO] Cookie Found: JSESSIONID",
+        "[INFO] Admin Panel Found: https://demo.testfire.net/admin",
+        "[INFO] Open Port: 80",
+        "[INFO] Open Port: 443",
+        "[INFO] Open Port: 8080",
+        "[INFO] Admin Panel Found: https://demo.testfire.net/admin/login"
+    ]
+}
