@@ -1,4 +1,4 @@
-# AutoVulnAI
+# AutoVulnScanner
 
 Python-based automated web vulnerability scanner developed for VAPT and security assessment.
 
